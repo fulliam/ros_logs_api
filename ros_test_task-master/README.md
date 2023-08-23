@@ -4,7 +4,7 @@
 
 Перейти в папку проекта:  
 ```bash
-cd ros_test_task-edited
+cd ros_test_task-master
 ```
 Собрать Docker-образ: 
 ```bash
