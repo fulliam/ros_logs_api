@@ -11,7 +11,7 @@ docker run -p 8001:8001 logs_api
 Отправить лог:
 http://0.0.0.0:8001/docs
 
->так же, можно использовать иные методы отправки, например curl:
+>**так же, можно использовать иные методы отправки, например curl:**
 ```bash
 curl -X POST -H "Content-Type: application/json" -d '{"data": "test log"}' http://localhost:8001/info
 ```

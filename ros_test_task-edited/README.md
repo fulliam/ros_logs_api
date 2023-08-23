@@ -1,3 +1,5 @@
+**Данный код представляет собой переписанный функционал [ros_test_task-master](https://github.com/fulliam/ros_logs_api/tree/main/ros_test_task-master), в котором реализованы два узла ROS (Robot Operating System) в рамках робототехнического приложения. Узлы выполняют функции прослушивания и записи логов.**
+
 **Чтобы запустить проект, нужно выполнить следующие команды:**  
 Собрать Docker-образ: 
 ```bash
@@ -35,8 +37,6 @@ tail <listener_node.log>
 ```bash
 tail <logger_node.log>
 ```
-
-**Данный код представляет собой переписанный функционал [ros_test_task-master](https://github.com/fulliam/ros_logs_api/tree/main/ros_test_task-master), в котором реализованы два узла ROS (Robot Operating System) в рамках робототехнического приложения. Узлы выполняют функции прослушивания и записи логов.**
 
 ### listener_node.py 
     Представляет узел, который прослушивает топик "/info" и публикует полученные данные в топик "/log". 
