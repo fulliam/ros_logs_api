@@ -60,4 +60,4 @@ tail <logger_node.log>
     Сначала он запускает roscore - центральный процесс ROS, затем запускает узлы logger_node.py и listener_node.py. 
     После запуска процессов скрипт ожидает завершения любого процесса с помощью команды wait -n.
 
-[В начало](https://github.com/fulliam/ros_logs_api)
+# [В начало](https://github.com/fulliam/ros_logs_api)
