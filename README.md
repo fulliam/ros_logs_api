@@ -1,3 +1,5 @@
+**Клонировать репозиторий:**
+
 ```bash
 git clone https://github.com/fulliam/ros_logs_api.git
 ```
