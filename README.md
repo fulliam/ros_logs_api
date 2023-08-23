@@ -1,2 +1,2 @@
-[Описание запуска и функионала ros_test_task-master]()
-[Описание запуска и функионала ros_test_task-edited]()
+[Описание запуска и функионала ros_test_task-edited](https://github.com/fulliam/ros_logs_api/tree/main/ros_test_task-edited)  
+[Описание запуска и функионала ros_test_task-master](https://github.com/fulliam/ros_logs_api/tree/main/ros_test_task-master)  
